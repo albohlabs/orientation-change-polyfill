@@ -3,7 +3,9 @@ orientation-change-polyfill
 
 orientation change polyfill module
 
-### jQuery binding usecase
+## jQuery binding
+
+Example:
 
     $(function($){  
       if (OrientationManager.supportsOrientationChange) {
@@ -14,5 +16,6 @@ orientation change polyfill module
       // use polyfill
       OrientationManager.bind(myCallback);
     });
+
 
 Inspired by https://gist.github.com/JamesEggers1/1904283
