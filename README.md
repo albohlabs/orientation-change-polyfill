@@ -1,7 +1,7 @@
 orientation-change-polyfill
 ===========================
 
-orientation change polyfill module Inspired by https://gist.github.com/JamesEggers1/1904283
+orientation change polyfill module inspired by https://gist.github.com/JamesEggers1/1904283
 
 ## Example
 
