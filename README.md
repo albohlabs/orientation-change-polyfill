@@ -17,7 +17,7 @@ orientation change polyfill module inspired by https://gist.github.com/JamesEgge
 
 ## TODO
 
-- set `window.orientation`
+- set `window.orientation` (it should be a real polyfill)
 
 ## License
 Copyright (c) 2013 Daniel Gräber  
