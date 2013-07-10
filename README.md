@@ -22,5 +22,4 @@ orientation change polyfill module inspired by https://gist.github.com/JamesEgge
 - set `window.orientation` (it should be a real polyfill)
 
 ## License
-orientation-change-polyfill is free and open source software
-released under the terms of the [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.html)
+orientation-change-polyfill is free and open source software, released under the terms of the [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.html)
