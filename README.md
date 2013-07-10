@@ -10,15 +10,12 @@ orientation change polyfill module inspired by https://gist.github.com/JamesEgge
 
 ### Example
 
-    $(function($){  
-      if (OrientationManager.supportsOrientationChange) {
-        $(window).on('orientationchange', myCallback);
-        return;
-      }
- 
+    if (OrientationManager.supportsOrientationChange) {
+      $(window).on('orientationchange', myCallback);
+    } else {
       // use polyfill
       OrientationManager.bind(myCallback);
-    });
+    }
 
 ### TODO
 
