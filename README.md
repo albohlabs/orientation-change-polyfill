@@ -15,6 +15,10 @@ orientation change polyfill module inspired by https://gist.github.com/JamesEgge
       OrientationManager.bind(myCallback);
     });
 
+## TODO
+
+- set `window.orientation`
+
 ## License
 Copyright (c) 2013 Daniel Gräber  
 Licensed under the MIT license.
