@@ -8,7 +8,7 @@ orientation change polyfill module inspired by https://gist.github.com/JamesEgge
 * [jQuery](http://jquery.com/)
   - versions: 1.7.0 or later
 
-## Example
+### Example
 
     $(function($){  
       if (OrientationManager.supportsOrientationChange) {
@@ -20,7 +20,7 @@ orientation change polyfill module inspired by https://gist.github.com/JamesEgge
       OrientationManager.bind(myCallback);
     });
 
-## TODO
+### TODO
 
 - set `window.orientation` (it should be a real polyfill)
 
