@@ -3,6 +3,11 @@ orientation-change-polyfill
 
 orientation change polyfill module inspired by https://gist.github.com/JamesEggers1/1904283
 
+### Requirements
+
+* [jQuery](http://jquery.com/)
+  - versions: 1.7.0 or later
+
 ## Example
 
     $(function($){  
